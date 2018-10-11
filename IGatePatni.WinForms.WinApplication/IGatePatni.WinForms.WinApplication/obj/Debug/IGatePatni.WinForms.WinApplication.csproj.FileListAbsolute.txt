@@ -1,0 +1,9 @@
+C:\Users\bkottapa\Desktop\Bindhu Prashanthi\Module3LabTasks\Winforms\Lab1\IGatePatni.WinForms.WinApplication\IGatePatni.WinForms.WinApplication\bin\Debug\IGatePatni.WinForms.WinApplication.exe.config
+C:\Users\bkottapa\Desktop\Bindhu Prashanthi\Module3LabTasks\Winforms\Lab1\IGatePatni.WinForms.WinApplication\IGatePatni.WinForms.WinApplication\bin\Debug\IGatePatni.WinForms.WinApplication.exe
+C:\Users\bkottapa\Desktop\Bindhu Prashanthi\Module3LabTasks\Winforms\Lab1\IGatePatni.WinForms.WinApplication\IGatePatni.WinForms.WinApplication\bin\Debug\IGatePatni.WinForms.WinApplication.pdb
+C:\Users\bkottapa\Desktop\Bindhu Prashanthi\Module3LabTasks\Winforms\Lab1\IGatePatni.WinForms.WinApplication\IGatePatni.WinForms.WinApplication\obj\Debug\IGatePatni.WinForms.WinApplication.csprojResolveAssemblyReference.cache
+C:\Users\bkottapa\Desktop\Bindhu Prashanthi\Module3LabTasks\Winforms\Lab1\IGatePatni.WinForms.WinApplication\IGatePatni.WinForms.WinApplication\obj\Debug\IGatePatni.WinForms.WinApplication.Form1.resources
+C:\Users\bkottapa\Desktop\Bindhu Prashanthi\Module3LabTasks\Winforms\Lab1\IGatePatni.WinForms.WinApplication\IGatePatni.WinForms.WinApplication\obj\Debug\IGatePatni.WinForms.WinApplication.Properties.Resources.resources
+C:\Users\bkottapa\Desktop\Bindhu Prashanthi\Module3LabTasks\Winforms\Lab1\IGatePatni.WinForms.WinApplication\IGatePatni.WinForms.WinApplication\obj\Debug\IGatePatni.WinForms.WinApplication.csproj.GenerateResource.Cache
+C:\Users\bkottapa\Desktop\Bindhu Prashanthi\Module3LabTasks\Winforms\Lab1\IGatePatni.WinForms.WinApplication\IGatePatni.WinForms.WinApplication\obj\Debug\IGatePatni.WinForms.WinApplication.exe
+C:\Users\bkottapa\Desktop\Bindhu Prashanthi\Module3LabTasks\Winforms\Lab1\IGatePatni.WinForms.WinApplication\IGatePatni.WinForms.WinApplication\obj\Debug\IGatePatni.WinForms.WinApplication.pdb
