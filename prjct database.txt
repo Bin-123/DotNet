@@ -1,0 +1,27 @@
+use Sep19CHN
+create schema EHS
+
+create table EHS.Users
+(
+UserName varchar(25) primary key,
+UserPassword varchar(25) not null 
+
+)
+
+
+create proc EHS.usp_AddUsers
+
+@UserName varchar,
+@Password varchar
+as
+begin 
+insert into EHS.Users values(@UserName,@Password)
+end
+
+
+create proc EHS.usp_GetUsers
+as
+begin
+select UserName from EHS.Users
+end
+
